@@ -29,7 +29,7 @@ Frontend do sistema de gerenciamento de estoque - teste C&A.
 ## Rodando o projeto
 
 ```
-npm start
+npm run dev
 ```
 
 A aplicação será lançada normalmente em [http://localhost:5173](http://localhost:5173).
